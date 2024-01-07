@@ -1,0 +1,323 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+    margin: 0 auto;
+}
+
+a:hover{
+    color: white;
+}
+
+body{
+    background-color: white;
+}
+
+h1{
+    font-family: monospace;
+    font-size: 32px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+a{
+    margin: auto;
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+    font-family: Calibri;
+    padding: 14px;
+}
+
+h2{
+    padding: 20px;
+    font-family: Calibri;
+}
+
+nav{
+    height: 66px;
+    width: 1900px;
+    background: slategray;
+    padding: 20px;
+    word-spacing: 20px;
+}
+
+article{
+    background-color: white;
+    width: 1900px;
+    height: 900px;
+    margin-bottom: 20px;
+}
+.footers{
+    background-color: slategray;
+    height: 80px;
+    margin-top: 1400px;
+}
+
+footer{
+    background-color: slategray;
+    height: 80px;
+    margin-top: 1200px;
+    margin-bottom: 60px;
+}
+
+.ph1{
+    text-align: left;
+    padding: 10px;
+    font-family: Calibri;
+    font-size: 22px;
+}
+
+.img_kolo{
+    float: right;
+
+}
+
+.text1{
+    width: 10px;
+    height: 70px;
+    text-align: center;
+    margin-left: 450px;
+    margin-right: 200px;
+    margin-top: 40px;
+}
+.sec1{
+    width: 600px;
+    margin-left: 500px;
+    margin-top: 70px;
+}
+
+.sec2{
+    width: 1000px;
+    float: left;
+    text-align: justify;
+}
+.od1{
+    text-align: justify;
+}
+.od2{
+    text-align: justify;
+}
+
+.br1{
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+td {
+    width: 1000px;
+}
+
+p{
+    font-size: 21px;
+    font-family: Calibri;
+}
+
+.sectionhbt{
+    float: left;
+    width: 200px;
+    margin-left: 40px;
+    margin-top: 110px;
+}
+.sectionht{
+    float: left;
+    width: 200px;
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
+
+
+ul li{
+    font-size: 18px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+
+.sections1{
+    width: 900px;
+    float: left;
+    margin-left: 60px;
+    margin-top: 40px;
+}
+
+.sections2{
+    width: 1200px;
+    float: right;
+    margin-top: 200px;
+    margin-right: 200px;
+}
+
+.sections3{
+    width: 800px;
+    float: left;
+    margin-top: 180px;
+    margin-left: 0px;
+    margin-bottom: 160px;
+}
+
+.sections4{
+    width: 900px;
+    float: right;
+    margin-right: 200px;
+}
+
+.sections5{
+    width: 900px;
+    float: left;
+    margin-top: 200px;
+    margin-bottom: 60px;
+}
+
+.hs2{
+    text-align: left;
+}
+
+.ps1{
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.ps2{
+    margin-bottom: 20px;
+    margin-left: 0px;
+}
+.ps3{
+    margin-left: 0px;
+    margin-top: 10px;
+}
+
+.ps4{
+    margin-left: 0px;
+    margin-top: 20px;
+}
+
+.ps5{
+    margin-right: 0px;
+    margin-top: 30px;
+}
+
+.imgs1{
+    float: right;
+    margin-right: 100px;
+    margin-top: 40px;
+ }
+
+.imgs2{
+    float: left;
+    margin-left: 100px;
+    margin-top: 90px;
+}
+
+.imgs3{
+    margin-left: 0px;
+    margin-top: 140px;
+    margin-right: 60px;
+    float: right;
+}
+
+.imgs4{
+    float: left;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+
+.imgs5{
+    float: right;
+    margin-right: 200px;
+    margin-top: 180px;
+}
+
+
+
+
+.sectionv1{
+    width: 900px;
+    float: left;
+    margin-left: 80px;
+    margin-top: 70px;
+}
+
+.imgv1{
+    margin-left: 200px;
+    margin-top: 70px;
+}
+
+.sectionv2{
+    width: 900px;
+    float: right;
+    margin-right: 130px;
+    margin-top: 80px;
+}
+
+.imgv2{
+    float: right;
+    margin-top: 0px;
+}
+
+.sectionv3{
+    width: 1000px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.imgv3{
+    margin-top: 0px;
+    float: right;
+    margin-right: 100px;
+}
+
+.sectionv4{
+    width: 900px;
+    float: right;
+    margin-top: 100px;
+}
+
+.imgv4{
+    float: left;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.sectionv5{
+    width: 900px;
+    float: left;
+    margin-top: 170px;
+    margin-left: 0px;
+}
+
+.imgv5{
+    float: right;
+    margin-top: 150px;
+}
+
+.sectionv6{
+    width: 900px;
+    float: right;
+    margin-top: 160px;
+    margin-right: 0px;
+}
+
+.imgv6{
+    float: left;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+
+
+.img100 {
+    margin-top: 5px;
+    margin-left: 40px;
+}
+.imgfooter{
+    margin-left: 40px;
+}
+.pfooter{
+    text-align: right;
+    margin-top: 0px;
+}
